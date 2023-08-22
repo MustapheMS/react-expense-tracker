@@ -76,7 +76,7 @@ cursor:pointer;
   display: flex;
   justify-content:space-between;
   align-items: center;
-  border-left:2px solid red
+  border-left:2px solid rgb(247, 61, 61)
 }
 
 .expense:hover{

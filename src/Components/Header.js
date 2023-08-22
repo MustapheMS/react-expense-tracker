@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div className="header">
-      <h3>Expenses App 💲💲</h3>
+      <h2>Expenses App 💲💲</h2>
     </div>
   );
 }
